@@ -1,0 +1,6 @@
+Et_Doner 100 49.50 
+Mercimek_Corbasi 150 19.90 
+Kofte 200 59.90
+Tavuk_Doner 100 24.50
+ 
+
